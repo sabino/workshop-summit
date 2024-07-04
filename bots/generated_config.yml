@@ -1,0 +1,11 @@
+steps:
+  - step: fetch_url
+    url: "https://example.com"
+  - step: wait_for_selector
+    selector: "title"
+  - step: scrape_content
+    selector: "title"
+    content_type: "text"
+  - step: save_output
+    format: "json"
+    path: "data/output/title.json"

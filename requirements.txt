@@ -1,0 +1,4 @@
+PyYAML==6.0.1
+openai==1.33.0
+playwright==1.44.0
+litellm==1.41.3

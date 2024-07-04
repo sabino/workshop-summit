@@ -32,6 +32,8 @@ functions = [
 
 
 response = completion(model="gpt-4o", messages=messages, functions=functions)
+
+print(response)
 function_call_data = response.choices[0].message.function_call
 
 

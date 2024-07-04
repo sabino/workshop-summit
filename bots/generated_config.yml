@@ -2,9 +2,9 @@ steps:
   - step: fetch_url
     url: "https://example.com"
   - step: wait_for_selector
-    selector: "title"
+    selector: "h1"
   - step: scrape_content
-    selector: "title"
+    selector: "h1"
     content_type: "text"
   - step: save_output
     format: "json"

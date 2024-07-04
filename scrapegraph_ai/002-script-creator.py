@@ -19,7 +19,7 @@ graph_config = {
         "model": "gpt-4o",
         "temperature": 0,
     },
-    "library": "playwright",
+    "library": "beautifulsoup4",
     "headless": False,
     "verbose": False,
     "burr_kwargs": {

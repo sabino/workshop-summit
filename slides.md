@@ -31,7 +31,7 @@ footer: 'Felipe Guilherme **Sabino** | 1ᵒ Summit de I.A | 4 de Julho, 2024'
 ## Ainda sobre mim
 
 - **Paixão:** Fazer coisas aparentemente impossíveis
-- **Valorização:** Jornada > Objetivo final
+- **Valorização:** Jornada > Final
 - **Hobbies:** Colecionador de video games antigos
 - **Interesse:** Reproduzir mecânicas de jogos
 
@@ -252,8 +252,6 @@ Pitch no Startup Weekend (2016)
 - Fique à vontade para perguntar!
 
 ---
-
-## Conclusão
 
 - **Resumo:** Web Scraping com LLM
 - **Contato:** sabino@judite.app

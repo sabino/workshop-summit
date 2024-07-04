@@ -1,5 +1,5 @@
 import asyncio
-from llm_scrape import LLMScraper, ScraperLLMOptions
+from framework.llm_scrape import LLMScraper, ScraperLLMOptions
 from playwright.async_api import async_playwright
 from pydantic import BaseModel, Field
 
